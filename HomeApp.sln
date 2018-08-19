@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeApp.Authentication", "HomeApp.Authentication\HomeApp.Authentication.csproj", "{63EDA81F-C321-4CCB-9AC5-6E2A1FC97F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63EDA81F-C321-4CCB-9AC5-6E2A1FC97F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63EDA81F-C321-4CCB-9AC5-6E2A1FC97F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63EDA81F-C321-4CCB-9AC5-6E2A1FC97F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63EDA81F-C321-4CCB-9AC5-6E2A1FC97F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7E5B8B3-3E49-4831-8925-5A845772F593}
+	EndGlobalSection
+EndGlobal
